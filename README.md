@@ -1,8 +1,7 @@
 # Electrical-Outage-Data-Scraping
 
-This python code pulls electrical outage data from CenterPoint. <br/>
-This data has location of outage, number of affected customers, and a
-device ID that indicates what failed. <br/>
+This python code pulls electrical outage data from CenterPoint, an electricity provider in Houston, Texas. <br/>
+This data has location of outage, number of affected customers, and a device ID that indicates what failed. <br/>
 Real time data must be collected, because historical data is not avaliable. <br/>
 <br/>
 If this script is run by itself, the data is collected.<br/>
